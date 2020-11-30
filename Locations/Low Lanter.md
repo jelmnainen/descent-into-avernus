@@ -1,0 +1,1 @@
+Paikka, jonne [[Amrik Vanthampur]] ja [[Thrustwell Vanthampur]] käski [[Vaaz]]in tuoda [[Mortlock Vanthampur]]in sormussormen tämän salamurhaamisen jälkeen. Ehkä sieltä voisi löytää Amrikin tai Thrustwellin?

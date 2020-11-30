@@ -1,0 +1,1 @@
+Widessä. [[Duke Thalamra Vanthampur]] määräsi [[Vaaz]]in tappamaan [[Duke Portyr]]in täällä Confraternity of Refugee Reliefin tapaamisen yhteydessä.

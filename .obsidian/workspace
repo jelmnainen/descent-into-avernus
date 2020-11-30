@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "b7d0d9a376c3af1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b957e23fb654537c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "D&D 6. sessio 2020-11-09.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ada4e92914505021",
+    "type": "split",
+    "children": [
+      {
+        "id": "0686a0624aeb7ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab1773e2d09727e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "00dea27d91fcc5c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a88329e1426e901a",
+    "type": "split",
+    "children": [
+      {
+        "id": "deee02a8f3151a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf1948cd38e41df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "D&D 6. sessio 2020-11-09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "D&D 6. sessio 2020-11-09.md",
+    "D&D 5. sessio 2020-11-02.md",
+    "Persons/Cult of Zariel/Thavius Kreek.md",
+    "Persons/Cult of Zariel/Cult of Zarielin johtaja (ehkä TK).md",
+    "Persons/Cult of Zariel/T.K..md",
+    "Persons/Thavius Greek.md",
+    "Persons/Cult of the Dead Three/Gargauth.md",
+    "D&D 4. sessio 2020-10-26.md",
+    "Persons/PC/Untitled.md",
+    "D&D 3. sessio 2020-10-19.md"
+  ]
+}
