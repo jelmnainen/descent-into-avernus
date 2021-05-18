@@ -1,0 +1,1 @@
+[[Baldur's Gate]]n alamaailman johtaja. Saattaa tietää jotain [[Duke Thalamra Vanthampur]]in tempuista. 

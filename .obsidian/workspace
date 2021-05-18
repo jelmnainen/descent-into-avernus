@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b957e23fb654537c",
+        "id": "fe6b57b0f87f053a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D 6. sessio 2020-11-09.md",
-            "mode": "preview"
+            "file": "D&D 13. sessio 2021-02-15.md",
+            "mode": "source"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 6. sessio 2020-11-09.md",
+                "file": "D&D 13. sessio 2021-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "fe6b57b0f87f053a",
   "lastOpenFiles": [
-    "D&D 6. sessio 2020-11-09.md",
-    "D&D 5. sessio 2020-11-02.md",
-    "Persons/Cult of Zariel/Thavius Kreek.md",
-    "Persons/Cult of Zariel/Cult of Zarielin johtaja (ehkä TK).md",
-    "Persons/Cult of Zariel/T.K..md",
-    "Persons/Thavius Greek.md",
-    "Persons/Cult of the Dead Three/Gargauth.md",
-    "D&D 4. sessio 2020-10-26.md",
-    "Persons/PC/Untitled.md",
-    "D&D 3. sessio 2020-10-19.md"
+    "D&D 13. sessio 2021-02-15.md",
+    "D&D 14. sessio 2021-05-17.md",
+    "D&D 13. sessio 2021-02-15 1.md",
+    "D&D 12. sessio 2021-02-08.md",
+    "D&D 11. sessio 2021-01-25.md",
+    "Persons/Cult of Zariel/Duke Thalamra Vanthampur.md",
+    "Persons/Cult of Zariel/Shield of the Hidden Lord.md",
+    "Persons/Cult of Zariel/Gargauth.md",
+    "Persons/Cult of Zariel/Thrustwell Vanthampur.md",
+    "Persons/Cult of Zariel/Thavius Kreek.md"
   ]
 }

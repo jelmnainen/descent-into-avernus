@@ -21,17 +21,6 @@ When the devils of Avernus brought down [[Elturel]], the [[Duke Ravenguard | Gra
 ### Viesti 3
 [[Vaaz]],
 
-Know ye that these missives are inscribed by my hand at [[Vanthampur Manor]], passing through holy hands directly from the [[Shield of the Hidden Lord]], which speaks with the True Voice of [[Gargauth]], Once Lord of Avernus and Treasurer of Hell, the Outcast, and Legatus of the Dark Gods.
-
-Seek ye the blood of the holy orders of Elturgard. That is the commandment of this hour. Let he great work which was begun in the light of the Companion be completed here under the aegis of the Dark Gods.
-
-[[Duke Thalamra Vanthampur | Vanthampur]] shall remain within her manor for this time, for she has mighty work to do and must consult constantly with us in its pursuit. But just as she has given unto you the temple of your forefathers, so you shall obey the fruit of her loins. Her three sons speak with my voice and work to our common cause.
-
--[[T.K.]].
-
-### Viesti 4
-[[Vaaz]],
-
 [[Duke Portyr]] will be delivering a speech at the [[Beloved Ranger]] in the Wide during an event held by the [[Confraternity of Refugee Relief]]. Give the iron barb I have enclosed in this packet to your best assassin.
 
 I know that you will serve me well in this.

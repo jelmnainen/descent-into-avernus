@@ -1,2 +1,0 @@
-# Gargauth
-Jonkinsortin demoni

@@ -41,4 +41,4 @@ Thalamra
 Lähdettiin ylös kylpylästä, törmättiin Dragon Cultisteihin, selvittiin juttelemalla. Suunnattiin kohti [[Beloved Ranger]]ia.  Ensimmäinen vartija ei oikein ollut yhteistyökykyinen. [[Duke Portyr]] saapuu paikalle. [[Vanthampur Manor]]issa on tiamatin aarteen maski. 
 
 
-[[D&D 9. sessio 2021-01-10 | Edellinen]]
+[[D&D 9. sessio 2020-11-09 | Seuraava]]

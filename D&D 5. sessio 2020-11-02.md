@@ -1,6 +1,6 @@
 # Muistiinpanot
 ## 3. päivä
-Faris tuli takaisin... zombina. Oh well. Paettiin tilanteesta takaisin [[Klim Jasso]]n huoneeseen, mihin ryysii samaan aikaan kaksi kultistia, joilla on vankinaan [[Alrik Mustaparta]].
+Faris tuli takaisin... zombina. Oh well. Paettiin tilanteesta takaisin [[Klim Jasso]]n huoneeseen, mihin ryysii samaan aikaan kaksi kultistia, joilla on vankinaan [[Alrik]].
 
 Joukko vapautti Alrikin ja lähti taistelemaan Master of Soulsia vastaan. Tapettiin Master of Souls, nuketettiin sen alkemialabra ja pelastettiin [[Klim Jasso]]. Jasso ei ollut seikkailutuulella, joten otettiin kantoon.  Master of Soulsilla oli kirje mukanaan:
 
