@@ -1,0 +1,1 @@
+Puolituinen [[Elturel (Avernus) | Elturelin Avernuksessa]]. Oli tekemässä sopimusta Impin kanssa ennen ryhmän väliintuloa. Ryhmä esti sopimuksen teon, saatti Pebblehuckin perheensä luo ja antoi näille ruokaa. Pebblehuck varoitti ryhmää taivaalla lentävästä ratsastajasta.

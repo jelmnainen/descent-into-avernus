@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6b57b0f87f053a",
+        "id": "bf9c6378600c2dd4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "D&D 13. sessio 2021-02-15.md",
-            "mode": "source"
+            "file": "Enemies/Narzugon.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D&D 13. sessio 2021-02-15.md",
+                "file": "Enemies/Narzugon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe6b57b0f87f053a",
+  "active": "bf9c6378600c2dd4",
   "lastOpenFiles": [
-    "D&D 13. sessio 2021-02-15.md",
-    "D&D 14. sessio 2021-05-17.md",
-    "D&D 13. sessio 2021-02-15 1.md",
-    "D&D 12. sessio 2021-02-08.md",
-    "D&D 11. sessio 2021-01-25.md",
-    "Persons/Cult of Zariel/Duke Thalamra Vanthampur.md",
-    "Persons/Cult of Zariel/Shield of the Hidden Lord.md",
-    "Persons/Cult of Zariel/Gargauth.md",
-    "Persons/Cult of Zariel/Thrustwell Vanthampur.md",
-    "Persons/Cult of Zariel/Thavius Kreek.md"
+    "Enemies/Untitled.md",
+    "D&D 16. sessio 2021-06-07.md",
+    "Persons/Pilster Pebblehuck.md",
+    "Persons/Harkina Hunt.md",
+    "Locations/Untitled.md",
+    "Persons/Untitled.md",
+    "Persons/Lulu.md",
+    "D&D 15. sessio 2021-05-31.md",
+    "Persons/Kraxigor.md",
+    "D&D 15. sessio 2021-05-31 1.md"
   ]
 }
