@@ -1,0 +1,1 @@
+[[Locations/Avernus/Elturel/High Hall | Elturelin kappelin]] pakolaisten johtaja. 

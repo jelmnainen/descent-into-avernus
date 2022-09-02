@@ -1,0 +1,1 @@
+Torm, itseuhrautuvaisuuden jumala
